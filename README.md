@@ -72,12 +72,12 @@ Sou movido pela vontade de crescer na profissão e construir uma carreira sólid
 <br>
 
 <img 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Eilandro&show_icons=true&theme=tokyonight&count_private=true" 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iamnport&show_icons=true&theme=tokyonight&count_private=true" 
   alt="GitHub stats"
 />
 
 <img 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?Eilandro=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight" 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iamnport&layout=compact&theme=tokyonight" 
   alt="Most Used Languages"
 />
 

@@ -72,7 +72,7 @@ Sou movido pela vontade de crescer na profissão e construir uma carreira sólid
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=EilandroSousa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://https://github-readme-stats.vercel.app/api?username=Eilandro&show_icons=true" 
   />
 
 <img 

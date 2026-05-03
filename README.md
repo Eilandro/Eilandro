@@ -2,8 +2,10 @@
 
 **`desenvolvedor back-end.`**
 
-Me chamo Eilandro Sousa, tenho 21 anos e estou em constante evolução na área de tecnologia. Atualmente, estudo de forma independente, focando no desenvolvimento das minhas habilidades como desenvolvedor back-end.
+Me chamo Eilandro Sousa, tenho 21 anos e estou em constante evolução na área de tecnologia. Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) e também estudo de forma independente, focando no desenvolvimento das minhas habilidades como desenvolvedor back-end.
+
 Sou movido pela vontade de crescer na profissão e construir uma carreira sólida como programador back-end, sempre buscando novos aprendizados, desafios e oportunidades para ingressar definitivamente no mercado de tecnologia.
+
 
 ### 🤖 Linguagens e Tecnologias
 

@@ -69,7 +69,7 @@ Sou movido pela vontade de crescer na profissão e construir uma carreira sólid
   title="SQL Server" 
   width="30px" 
   style="padding-right: 10px;" 
-  src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg](https://www.flaticon.com/free-icon/database_1265531?term=sql+server&page=1&position=49&origin=tag&related_id=1265531)" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg](https://www.flaticon.com/free-icon/database_1265531?term=sql+server&page=1&position=49&origin=tag&related_id=1265531)" 
 />
 
 <br/>

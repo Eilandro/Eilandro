@@ -67,7 +67,7 @@ Sou movido pela vontade de crescer na profissão e construir uma carreira sólid
   align="left" 
   alt="SQL Server"
   title="SQL Server" 
-  width="30px" 
+  width="35px" 
   style="padding-right: 10px;" 
   src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" 
 />

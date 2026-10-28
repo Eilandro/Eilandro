@@ -28,30 +28,41 @@ Foco em **desenvolvimento back-end (C# / .NET)** e **qualidade de software (QA)*
 
 ## 🧰 Tecnologias
 
-**Back-end e banco de dados**
-
-<img alt="C#" title="C#" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img alt=".NET" title=".NET / ASP.NET Core" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-<img alt="SQL Server" title="SQL Server" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-
-C# · .NET · ASP.NET Core (MVC e Razor Pages) · Entity Framework Core · SQL Server · POO
-
-**Front-end**
-
-<img alt="HTML5" title="HTML5" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img alt="CSS3" title="CSS3" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img alt="JavaScript" title="JavaScript" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-**QA e testes** (em formação)
-
-Cypress · REST Assured · testes de API REST · testes automatizados
-
-**Ferramentas**
-
-<img alt="Git" title="Git" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img alt="GitHub" title="GitHub" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<img alt="Visual Studio" title="Visual Studio" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-<img alt="VS Code" title="VS Code" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<table>
+  <tr>
+    <th align="center">Back-end e banco de dados</th>
+    <th align="center">Front-end</th>
+    <th align="center">QA e testes</th>
+    <th align="center">Ferramentas</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="C#" title="C#" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+      <img alt=".NET" title=".NET / ASP.NET Core" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+      <img alt="SQL Server" title="SQL Server" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+    </td>
+    <td align="center">
+      <img alt="HTML5" title="HTML5" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+      <img alt="CSS3" title="CSS3" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+      <img alt="JavaScript" title="JavaScript" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    </td>
+    <td align="center">
+      <img alt="Cypress" title="Cypress" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+    </td>
+    <td align="center">
+      <img alt="Git" title="Git" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+      <img alt="GitHub" title="GitHub" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+      <img alt="Visual Studio" title="Visual Studio" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+      <img alt="VS Code" title="VS Code" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">ASP.NET Core · Entity Framework Core · POO</td>
+    <td align="center">Interfaces web</td>
+    <td align="center">REST Assured · testes de API · automação</td>
+    <td align="center">Versionamento e editores</td>
+  </tr>
+</table>
 
 ---
 
@@ -60,7 +71,5 @@ Cypress · REST Assured · testes de API REST · testes automatizados
 - 💼 [LinkedIn](https://www.linkedin.com/in/eilandro-sousa-953b11388)
 - ✉️ [landimsousa990@gmail.com](mailto:landimsousa990@gmail.com)
 - 🐙 [github.com/Eilandro](https://github.com/Eilandro)
-
-
 
 

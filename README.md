@@ -1,90 +1,65 @@
-# 👨‍💻 Eilandro Sousa
+# 👋 Olá, eu sou o Eilandro Sousa
 
-**`desenvolvedor back-end.`**
+**Estudante de Análise e Desenvolvimento de Sistemas · Buscando estágio em TI**
 
-Me chamo Eilandro Sousa, tenho 21 anos e estou em constante evolução na área de tecnologia. Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) e também estudo de forma independente, focando no desenvolvimento das minhas habilidades como desenvolvedor back-end.
+Foco em **desenvolvimento back-end (C# / .NET)** e **qualidade de software (QA)**. Gosto de construir aplicações completas, do banco de dados à interface, e de garantir que elas funcionem com testes automatizados.
 
-Sou movido pela vontade de crescer na profissão e construir uma carreira sólida como programador back-end, sempre buscando novos aprendizados, desafios e oportunidades para ingressar definitivamente no mercado de tecnologia.
+📍 Minas Novas, MG · 🎓 ADS na UNOPAR (desde fev/2026)
 
+---
 
-### 🤖 Linguagens e Tecnologias
+## 📊 Minhas contribuições
 
-<img 
-  align="left" 
-  alt="HTML"
-  title="HTML" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+<p align="center">
+  <img src="./contrib-heatmap.svg" alt="Gráfico animado de contribuições do GitHub de Eilandro" width="100%" />
+</p>
 
-<img 
-  align="left" 
-  alt="CSS" 
-  title="CSS"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+---
 
-<img 
-  align="left" 
-  alt="JavaScript" 
-  title="JavaScript"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+## 🚀 Projetos
 
-<img 
-  align="left" 
-  alt="Git" 
-  title="Git"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+| Projeto | O que faz | Tecnologias |
+|---|---|---|
+| [**ControleDeProdutos**](https://github.com/Eilandro/ControleDeProdutos) | Aplicação web para gerenciar produtos, com cadastro, consulta, edição e exclusão (CRUD). | C#, ASP.NET Core MVC, Entity Framework Core, SQL Server |
+| [**AgendaAutonomos**](https://github.com/Eilandro/AgendaAutonomos) | Sistema em andamento para autônomos gerenciarem clientes, serviços, agendamentos e controle financeiro, com autenticação. | C#, ASP.NET Core Razor Pages, Entity Framework Core, SQL Server, HTML, CSS, JavaScript |
+| [**Gestor de Clientes no CMD**](https://github.com/Eilandro/Gestor-de-clientes-no-cmd) | Aplicação de console para adicionar, listar e remover clientes, com persistência em arquivos. | C#, manipulação de arquivos |
 
-<img 
-  align="left" 
-  alt="Python" 
-  title="Python"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+---
 
-<img 
-  align="left" 
-  alt="C#"
-  title="C#"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
+## 🧰 Tecnologias
 
-<img 
-  align="left" 
-  alt="SQL Server"
-  title="SQL Server" 
-  width="35px" 
-  style="padding-right: 10px;" 
-  src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" 
-/>
+**Back-end e banco de dados**
 
-<br/>
-<br/>
+<img alt="C#" title="C#" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img alt=".NET" title=".NET / ASP.NET Core" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+<img alt="SQL Server" title="SQL Server" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 
+C# · .NET · ASP.NET Core (MVC e Razor Pages) · Entity Framework Core · SQL Server · POO
 
-<!-- ===================== -->
-<!-- 🐍 ANIMAÇÃO (MANTIDA COMO VOCÊ ENVIOU) -->
-<!-- ===================== -->
+**Front-end**
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
+<img alt="HTML5" title="HTML5" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img alt="CSS3" title="CSS3" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img alt="JavaScript" title="JavaScript" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+**QA e testes** (em formação)
+
+Cypress · REST Assured · testes de API REST · testes automatizados
+
+**Ferramentas**
+
+<img alt="Git" title="Git" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img alt="GitHub" title="GitHub" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img alt="Visual Studio" title="Visual Studio" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+<img alt="VS Code" title="VS Code" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+
+---
+
+## 📫 Vamos conversar?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/eilandro-sousa-953b11388)
+- ✉️ [landimsousa990@gmail.com](mailto:landimsousa990@gmail.com)
+- 🐙 [github.com/Eilandro](https://github.com/Eilandro)
 
 
 

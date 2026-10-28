@@ -1,15 +1,19 @@
-# 👋 Olá, eu sou o Eilandro Sousa
+<h1 align="center">👋 Olá, eu sou o Eilandro Sousa</h1>
 
-**Estudante de Análise e Desenvolvimento de Sistemas · Buscando estágio em TI**
+<p align="center">
+  <b>Estudante de Análise e Desenvolvimento de Sistemas · Buscando estágio em TI</b>
+</p>
 
-Foco em **desenvolvimento back-end (C# / .NET)** e **qualidade de software (QA)**. Gosto de construir aplicações completas, do banco de dados à interface, e de garantir que elas funcionem com testes automatizados.
+<p align="center">
+  Foco em <b>desenvolvimento back-end (C# / .NET)</b> e <b>qualidade de software (QA)</b>.<br>
+  Gosto de construir aplicações completas, do banco de dados à interface, e de garantir que funcionem com testes automatizados.
+</p>
 
-📍 Minas Novas, MG · 🎓 ADS na UNOPAR (desde fev/2026)
+<p align="center">📍 Minas Novas, MG · 🎓 ADS na UNOPAR (desde fev/2026)</p>
 
 ---
 
 ## 📊 Minhas contribuições
-
 <!-- ===================== -->
 <!-- 🐍 ANIMAÇÃO (MANTIDA COMO VOCÊ ENVIOU) -->
 <!-- ===================== -->
@@ -19,7 +23,6 @@ Foco em **desenvolvimento back-end (C# / .NET)** e **qualidade de software (QA)*
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
-
 ---
 
 ## 🚀 Projetos
@@ -32,50 +35,45 @@ Foco em **desenvolvimento back-end (C# / .NET)** e **qualidade de software (QA)*
 
 ---
 
-## 🧰 Tecnologias
+## 🛠️ O que eu sei?
 
-<table>
-  <tr>
-    <th align="center">Back-end e banco de dados</th>
-    <th align="center">Front-end</th>
-    <th align="center">QA e testes</th>
-    <th align="center">Ferramentas</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="C#" title="C#" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-      <img alt=".NET" title=".NET / ASP.NET Core" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-      <img alt="SQL Server" title="SQL Server" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-    </td>
-    <td align="center">
-      <img alt="HTML5" title="HTML5" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-      <img alt="CSS3" title="CSS3" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-      <img alt="JavaScript" title="JavaScript" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    </td>
-    <td align="center">
-      <img alt="Cypress" title="Cypress" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
-    </td>
-    <td align="center">
-      <img alt="Git" title="Git" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-      <img alt="GitHub" title="GitHub" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-      <img alt="Visual Studio" title="Visual Studio" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-      <img alt="VS Code" title="VS Code" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">ASP.NET Core · Entity Framework Core · POO</td>
-    <td align="center">Interfaces web</td>
-    <td align="center">REST Assured · testes de API · automação</td>
-    <td align="center">Versionamento e editores</td>
-  </tr>
-</table>
+### Front-end
+<p align="left">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### Back-end e banco de dados
+<p align="left">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="Entity Framework Core" src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+### QA e testes
+<p align="left">
+  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img alt="REST Assured" src="https://img.shields.io/badge/REST%20Assured-25A162?style=for-the-badge" />
+  <img alt="Testes de API" src="https://img.shields.io/badge/Testes%20de%20API-6C757D?style=for-the-badge" />
+</p>
+
+### Ferramentas
+<p align="left">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
-## 📫 Vamos conversar?
+## 🌐 Onde me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/eilandro-sousa-953b11388)
-- ✉️ [landimsousa990@gmail.com](mailto:landimsousa990@gmail.com)
-- 🐙 [github.com/Eilandro](https://github.com/Eilandro)
-
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/eilandro-sousa-953b11388"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:landimsousa990@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Eilandro"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>

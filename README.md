@@ -10,9 +10,15 @@ Foco em **desenvolvimento back-end (C# / .NET)** e **qualidade de software (QA)*
 
 ## 📊 Minhas contribuições
 
-<p align="center">
-  <img src="./contrib-heatmap.svg" alt="Gráfico animado de contribuições do GitHub de Eilandro" width="100%" />
-</p>
+<!-- ===================== -->
+<!-- 🐍 ANIMAÇÃO (MANTIDA COMO VOCÊ ENVIOU) -->
+<!-- ===================== -->
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
